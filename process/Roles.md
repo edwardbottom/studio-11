@@ -2,7 +2,7 @@
 
 | Role         | Who             |
 |:-------------|:----------------|
-| Manager      |   Full Name     |
-| Recorder     |   Full Name     |
-| Spokesperson |   Full Name     |
-| Technician   |   Full Name     |
+| Manager      |   Justin Boschelli     |
+| Recorder     |   Connor Stevens     |
+| Spokesperson |   Eric Lu     |
+| Technician   |   Edward Bottom     |
